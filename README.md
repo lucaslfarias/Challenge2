@@ -1,7 +1,7 @@
 # Challenge2
 
 Desafio Portugol - Fork este repo, clone em sua máquina,  crie uma branch e crie um programa em portugol para os exercícios a serguir. Ao finalizar, commit para seu repositório e faça um pull request para o repo original.
-Data limite. 27/05 até as 08:00 da manhã.
+Data limite. 28/05 até as 08:00 da manhã.
 
 -Escreva um algoritmo para ler um valor (do teclado) e escrever (na tela) o seu antecessor.
 
